@@ -24,4 +24,28 @@ __________________________________________
 ![Screenshot 2024-03-10 144829.png](..%2F..%2FSS%2FScreenshot%202024-03-10%20144829.png)
 ![Screenshot 2024-03-10 144841.png](..%2F..%2FSS%2FScreenshot%202024-03-10%20144841.png)
 
+## Before Optimization
+## /all-student-name
+![Screenshot 2024-03-10 144700.png](..%2F..%2FSS%2FScreenshot%202024-03-10%20144700.png)
+![Screenshot 2024-03-10 144759.png](..%2F..%2FSS%2FScreenshot%202024-03-10%20144759.png)
+![Screenshot 2024-03-10 160921.png](..%2F..%2FSS%2FScreenshot%202024-03-10%20160921.png)
+![Screenshot 2024-03-10 161939.png](..%2F..%2FSS%2FScreenshot%202024-03-10%20161939.png)
 
+## /highest-gpa
+![Screenshot 2024-03-10 144829.png](..%2F..%2FSS%2FScreenshot%202024-03-10%20144829.png)
+![Screenshot 2024-03-10 144841.png](..%2F..%2FSS%2FScreenshot%202024-03-10%20144841.png)
+![Screenshot 2024-03-10 162443.png](..%2F..%2FSS%2FScreenshot%202024-03-10%20162443.png)
+![Screenshot 2024-03-10 162343.png](..%2F..%2FSS%2FScreenshot%202024-03-10%20162343.png)
+__________________________________________
+## After optimization
+## /all-student-name
+![Screenshot 2024-03-10 164013.png](..%2F..%2FSS%2FScreenshot%202024-03-10%20164013.png)
+![Screenshot 2024-03-10 164253.png](..%2F..%2FSS%2FScreenshot%202024-03-10%20164253.png)
+![Screenshot 2024-03-10 161859.png](..%2F..%2FSS%2FScreenshot%202024-03-10%20161859.png)
+![Screenshot 2024-03-10 161933.png](..%2F..%2FSS%2FScreenshot%202024-03-10%20161933.png)
+
+## /highest-gpa
+![Screenshot 2024-03-10 164243.png](..%2F..%2FSS%2FScreenshot%202024-03-10%20164243.png)
+![Screenshot 2024-03-10 164257.png](..%2F..%2FSS%2FScreenshot%202024-03-10%20164257.png)
+![Screenshot 2024-03-10 163432.png](..%2F..%2FSS%2FScreenshot%202024-03-10%20163432.png)
+![Screenshot 2024-03-10 163527.png](..%2F..%2FSS%2FScreenshot%202024-03-10%20163527.png)
